@@ -3,6 +3,7 @@ import './Footer.css'
 import { Link } from 'react-router-dom';
 
 function Footer(props) {
+    document.body.style.paddingBottom = "80px";
     return (
         <footer className="footer">
             <div className="containter-fluid">
