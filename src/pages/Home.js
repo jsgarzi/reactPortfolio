@@ -1,5 +1,6 @@
 import React from 'react'
 import Cards from "../components/Cards/Cards";
+import LowerSection from '../components/LowerSection/LowerSection';
 import TopSection from "../components/TopSection/TopSection";
 
 var cardInfo = [
@@ -62,6 +63,7 @@ function Home() {
                     })}
                 </div>
             </div>
+            < LowerSection />
         </div>
     )
 }

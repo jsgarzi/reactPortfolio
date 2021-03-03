@@ -1,0 +1,8 @@
+#lowSecCont {
+    width: 100vw;
+    height: 25vh;
+    background-color: #D3D4D9;
+    align-items: center;
+    justify-content:center;
+    display: flex;
+}

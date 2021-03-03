@@ -13,4 +13,4 @@ function TopSection(props) {
     )
 }
 
-export default TopSection
+export default TopSection;

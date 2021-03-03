@@ -12,7 +12,7 @@ function Navbar(props) {
                             <Link to="/" className="nav-link active" aria-current="page">Home</Link>
                         </div>
                         <div className="navbar-nav ml-5 mb-2 mb-lg-0">
-                            <Link to="/about" className="nav-link active" aria-current="page">About</Link>
+                            <Link to="#" className="nav-link active" aria-current="page">About</Link>
                         </div>
                     </div>
                 </div>
