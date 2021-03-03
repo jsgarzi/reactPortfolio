@@ -1,0 +1,49 @@
+@import '../../index.css';
+
+
+#topSecCont {
+    width: 100vw;
+    height: 25vh;
+    background-color: #0B3954;
+    align-items: center;
+    justify-content:center;
+    display: flex;
+}
+
+.Aligner-item {
+    max-width: 50%;
+    color: white;
+}
+
+
+.border{
+    width: 1px;
+    height: 30px;
+
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.topTextOne{
+    font-family: hero-new,sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    margin-bottom: 0rem;
+}
+
+.topTextTwo{
+    font-family: vox, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    margin-bottom: 0rem;
+}
+
+.topTextThree{
+    font-family: mostra-nuova, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    margin-bottom: 0rem;
+}
