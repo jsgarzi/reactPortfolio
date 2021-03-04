@@ -9,7 +9,7 @@ function Navbar(props) {
                     <a className="navbar-brand">Julian Sgarzi</a>
                     <div className= " row ml-auto mr-5 font-weight-bold">
                         <div className="navbar-nav ml-5 mb-2 mb-lg-0">
-                            <Link to="/" className="nav-link active" aria-current="page">Home</Link>
+                            <Link to="/reactPortfolio" className="nav-link active" aria-current="page">Home</Link>
                         </div>
                         <div className="navbar-nav ml-5 mb-2 mb-lg-0">
                             <Link to="#" className="nav-link active" aria-current="page">About</Link>
