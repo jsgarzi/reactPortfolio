@@ -13,22 +13,23 @@
 .Aligner-item {
     max-width: 50%;
     color: white;
+    margin: 0rem;
 }
 
 
 .border{
+    stroke: black;
     width: 1px;
-    height: 30px;
-
+    height: 50x;
     margin-left: 25px;
     margin-right: 25px;
 }
 
-.topTextOne{
+.topTextThree{
     font-family: hero-new,sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 0rem;
 }
 
@@ -36,14 +37,16 @@
     font-family: vox, sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 0rem;
 }
 
-.topTextThree{
-    font-family: mostra-nuova, sans-serif;
-    font-weight: 300;
+.topTextOne{
+    font-family: mr-eaves-sans, sans-serif;
+    font-weight: 400;
     font-style: normal;
-    font-size: 24px;
+    font-size: 30px;
     margin-bottom: 0rem;
+    margin-right: -5px;
+
 }
